@@ -1,9 +1,9 @@
 ```yaml
----
-
 # Ideas Tracker
 
-![image](https://github.com/user-attachments/assets/050acf75-3a79-4097-9868-46307d7b0a83)
+![image](https://github.com/user-attachments/assets/350688a8-d924-4d7d-8eb9-2d9c199adc5d)
+
+---
 
 **Ideas Tracker** é um aplicativo web para gerenciamento de ideias, permitindo aos usuários registrar, visualizar e excluir suas ideias de forma intuitiva. O projeto é desenvolvido usando React e Appwrite, e adota o padrão MVVM (Model-View-ViewModel) para a estrutura do frontend.
 
