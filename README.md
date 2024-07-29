@@ -21,7 +21,6 @@ src\
 - App.jsx             # Componente principal do aplicativo
 - main.jsx            # Ponto de entrada do aplicativo
 index.html            # Arquivo HTML principal
-```
 
 ## Padrões e Design
 
@@ -94,4 +93,3 @@ Sendo um projeto de código aberto, você tem a liberdade de personalizar e cont
 1. **Instalar Dependências**: Execute `npm install` para instalar todas as dependências do projeto.
 2. **Iniciar o Servidor de Desenvolvimento**: Execute `npm start` para iniciar o servidor de desenvolvimento e abrir o aplicativo em seu navegador.
 ---
-```
