@@ -1,9 +1,9 @@
+```yaml
 ---
 
 # Ideas Tracker
 
 ![image](https://github.com/user-attachments/assets/050acf75-3a79-4097-9868-46307d7b0a83)
-
 
 **Ideas Tracker** é um aplicativo web para gerenciamento de ideias, permitindo aos usuários registrar, visualizar e excluir suas ideias de forma intuitiva. O projeto é desenvolvido usando React e Appwrite, e adota o padrão MVVM (Model-View-ViewModel) para a estrutura do frontend.
 
@@ -65,8 +65,8 @@ O projeto utiliza o **Appwrite** para gerenciamento de usuários e armazenamento
 
 O **Appwrite** é utilizado como banco de dados para armazenar e gerenciar ideias dos usuários. A estrutura do banco de dados é configurada com os seguintes IDs:
 
-- **ID do Banco de Dados**: `<bd_ID>`
-- **ID da Coleção de Ideias**: `<colletion_ID>`
+- **ID do Banco de Dados**: `66a76ca10011f42fd6e8`
+- **ID da Coleção de Ideias**: `66a76cc60014ee3981fe`
 
 ### Endpoints
 
@@ -96,9 +96,5 @@ Sendo um projeto de código aberto, você tem a liberdade de personalizar e cont
 
 1. **Instalar Dependências**: Execute `npm install` para instalar todas as dependências do projeto.
 2. **Iniciar o Servidor de Desenvolvimento**: Execute `npm start` para iniciar o servidor de desenvolvimento e abrir o aplicativo em seu navegador.
-
-## Contribuição
-
-Contribuições são bem-vindas! Se você deseja contribuir para este projeto, por favor, abra uma issue ou envie um pull request com suas alterações.
-
 ---
+```
