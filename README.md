@@ -2,6 +2,9 @@
 
 # Ideas Tracker
 
+![image](https://github.com/user-attachments/assets/050acf75-3a79-4097-9868-46307d7b0a83)
+
+
 **Ideas Tracker** é um aplicativo web para gerenciamento de ideias, permitindo aos usuários registrar, visualizar e excluir suas ideias de forma intuitiva. O projeto é desenvolvido usando React e Appwrite, e adota o padrão MVVM (Model-View-ViewModel) para a estrutura do frontend.
 
 ## Estrutura do Projeto
